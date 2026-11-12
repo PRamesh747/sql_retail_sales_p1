@@ -167,7 +167,7 @@ WHERE sale_date = '2022-11-05';
 
 **SQL concepts:** SELECT, WHERE, date filtering.
 
-### Q2. Retrieve Clothing transactions where the quantity sold was more than 4 during November 2022.
+### Q2. Retrieve Clothing transactions where the quantity sold was more than 2 during November 2022.
 
 ```sql
 SELECT *
@@ -375,6 +375,7 @@ Qualified finance professional developing practical skills in data analytics, SQ
 This project forms part of my data analytics learning and professional portfolio.
 
 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/poornisha-ramesh/)
+GitHub: [Connect with me on LinkedIn](https://www.github.com/in/PRamesh747/)
 
 
     
